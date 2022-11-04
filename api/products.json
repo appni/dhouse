@@ -1,4 +1,4 @@
-[
+
     {
         "id": 1,
         "title": "Título del producto",
@@ -8,7 +8,9 @@
             "https://picsum.photos/640/360",
             "https://picsum.photos/640/361"
         ],
-        "description": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
+        "description": {
+            "title": "Titulo de la descripción del producto",
+            "description": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham."} ,
         "features": [
             {
                 "id": 1,
@@ -51,4 +53,3 @@
             }
         }
     }
-]
