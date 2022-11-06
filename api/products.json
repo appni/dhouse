@@ -40,16 +40,16 @@
         ],
         "regulation": {
             "policy": {
-                "title":"Título de la política",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n \nUt enim ad minim veniam. Quis nostrud exercitation. "
+                "title":"Normas de la casa",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n \nUt enim ad minim veniam.\n \n Quis nostrud exercitation. "
             },
             "security": {
-                "title":"Título de la seguridad",
+                "title":"Salud y seguridad",
                 "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.\n \nEaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.\n \n Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit."
             },
             "cancellation": {
-                "title":"Título de la cancelación",
-                "description": "On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue.\n \nEqual blame belongs to those who fail in their duty through weakness of will.\n \n Which is the same as saying through shrinking from toil and pain."
+                "title":"Política de cancelación",
+                "description": "On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire.\n \nEqual blame belongs to those who fail in their duty through weakness of will.\n \n Which is the same as saying through shrinking from toil and pain."
             }
         }
     }
