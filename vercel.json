@@ -11,6 +11,9 @@
       }
     ],
     "redirects": [
-        { "source": "/products", "destination": "/products.json" }
+        { "source": "/api/products", "destination": "/api/products.json" },
+        { "source": "/api/products/1", "destination": "/api/products/1.json" },
+        { "source": "/api/products/2", "destination": "/api/products/2.json" },
+        { "source": "/api/products/3", "destination": "/api/products/3.json" }
     ]
 }

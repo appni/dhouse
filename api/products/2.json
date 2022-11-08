@@ -1,0 +1,49 @@
+{
+    "id": 2,
+    "title": "Título del producto 2",
+    "location": "Buenos Aires, Ciudad de Buenos Aires, Argentina a 940m del centro",
+    "images": [
+        "https://picsum.photos/640/359",
+        "https://picsum.photos/640/360",
+        "https://picsum.photos/640/361"
+    ],
+    "description": {
+        "title": "Titulo de la descripción del producto",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a blandit lectus. Morbi vitae convallis lorem. Suspendisse potenti. Nullam interdum ultricies metus, vehicula luctus justo maximus ut. Aliquam finibus nulla arcu, vel scelerisque nunc varius at. Phasellus scelerisque aliquet nunc, faucibus pharetra ligula accumsan non. Nunc dapibus lacus sed felis scelerisque, fermentum bibendum ante fringilla. Cras tortor nisi, maximus id varius eu, bibendum in diam. Vestibulum ac quam sit amet odio laoreet imperdiet. Ut tincidunt diam sit amet maximus vulputate.\n \n Nullam tempor sem sit amet lectus laoreet gravida. Donec porta pellentesque sapien a tincidunt. Integer sit amet odio sem. Nulla euismod lorem vitae libero consectetur pulvinar. Nulla vitae augue eu odio sagittis consequat. Nunc vel suscipit nibh. Cras non tincidunt lectus. Aliquam vestibulum a ligula vitae facilisis. Aliquam sit amet aliquam lacus, vitae rhoncus nulla. Curabitur nec euismod lorem. Sed ac mauris vel urna sagittis pharetra. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n \nFusce fringilla sodales pretium. Maecenas semper ante a ornare finibus. Integer euismod at tellus sed mollis. Morbi accumsan a enim eget malesuada. In vehicula ullamcorper ultricies. Sed eget velit eleifend urna dignissim tempus eget quis enim. Nullam vehicula, nibh nec varius tincidunt, leo tellus lobortis tellus, ut lobortis tortor nisl efficitur est. Suspendisse ut felis ut tortor aliquam porta id et sem."} ,
+    "features": [
+        {
+            "id": 1,
+            "title": "Cocina",
+            "icon": "https://loremicon.com/poly/128/128/new/svg"
+        },
+        {
+            "id": 2,
+            "title": "Mascotas",
+            "icon": "https://loremicon.com/poly/128/128/new/svg"
+        },
+        {
+            "id": 3,
+            "title": "Estacionamiento gratuito",
+            "icon": "https://loremicon.com/poly/128/128/new/svg"
+        },
+        {
+            "id": 4,
+            "title": "Wifi",
+            "icon": "https://loremicon.com/poly/128/128/new/svg"
+        }
+    ],
+    "regulation": {
+        "policy": {
+            "title":"Normas de la casa",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n \nUt enim ad minim veniam.\n \n Quis nostrud exercitation. "
+        },
+        "security": {
+            "title":"Salud y seguridad",
+            "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.\n \nEaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.\n \n Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit."
+        },
+        "cancellation": {
+            "title":"Política de cancelación",
+            "description": "On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire.\n \nEqual blame belongs to those who fail in their duty through weakness of will.\n \n Which is the same as saying through shrinking from toil and pain."
+        }
+    }
+}
