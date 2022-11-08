@@ -1,6 +1,7 @@
 {
     "id": 2,
     "title": "Título del producto 2",
+    "category": "Categoría 2",
     "location": "Buenos Aires, Ciudad de Buenos Aires, Argentina a 940m del centro",
     "images": [
         "https://picsum.photos/640/359",
@@ -29,6 +30,11 @@
         {
             "id": 4,
             "title": "Wifi",
+            "icon": "https://loremicon.com/poly/128/128/new/svg"
+        },
+        {
+            "id": 5,
+            "title": "Televisor",
             "icon": "https://loremicon.com/poly/128/128/new/svg"
         }
     ],

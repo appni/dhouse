@@ -1,6 +1,7 @@
 {
     "id": 3,
     "title": "Título del producto 3",
+    "category": "Categoría 3",
     "location": "Buenos Aires, Ciudad de Buenos Aires, Argentina a 940m del centro",
     "images": [
         "https://picsum.photos/640/359",
