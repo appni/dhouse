@@ -31,11 +31,6 @@
             "id": 4,
             "title": "Wifi",
             "icon": "https://loremicon.com/poly/128/128/new/svg"
-        },
-        {
-            "id": 5,
-            "title": "Televisor",
-            "icon": "https://loremicon.com/poly/128/128/new/svg"
         }
     ],
     "regulation": {
