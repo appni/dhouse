@@ -15,17 +15,17 @@
         {
             "id": 1,
             "title": "Cocina",
-            "icon": "https://loremicon.com/poly/128/128/new/svg"
+            "icon": "FaPooStorm"
         },
         {
             "id": 2,
             "title": "Mascotas",
-            "icon": "https://loremicon.com/poly/128/128/new/svg"
+            "icon": "FaPlaneArrival"
         },
         {
             "id": 3,
             "title": "Estacionamiento gratuito",
-            "icon": "https://loremicon.com/poly/128/128/new/svg"
+            "icon": "FaPlay"
         }
     ],
     "regulation": {
