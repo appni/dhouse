@@ -2,34 +2,52 @@
     {
         "id": 1,
         "title": "Título del producto 1",
-        "category": "Categoría 1",
-        "location": "Buenos Aires, Ciudad de Buenos Aires, Argentina a 940m del centro",
-        "image": "https://picsum.photos/640/359",
-        "description": {
-            "title": "Titulo de la descripción del producto",
-            "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a blandit lectus. Morbi vitae convallis lorem. Suspendisse potenti. Nullam interdum ultricies metus, vehicula luctus justo maximus ut. Aliquam finibus nulla arcu, vel scelerisque nunc varius at. Phasellus scelerisque aliquet nunc, faucibus pharetra ligula accumsan non. Nunc dapibus lacus sed felis scelerisque, fermentum bibendum ante fringilla. Cras tortor nisi, maximus id varius eu, bibendum in diam. Vestibulum ac quam sit amet odio laoreet imperdiet. Ut tincidunt diam sit amet maximus vulputate.\n \n Nullam tempor sem sit amet lectus laoreet gravida. Donec porta pellentesque sapien a tincidunt. Integer sit amet odio sem. Nulla euismod lorem vitae libero consectetur pulvinar. Nulla vitae augue eu odio sagittis consequat. Nunc vel suscipit nibh. Cras non tincidunt lectus. Aliquam vestibulum a ligula vitae facilisis. Aliquam sit amet aliquam lacus, vitae rhoncus nulla. Curabitur nec euismod lorem. Sed ac mauris vel urna sagittis pharetra. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n \nFusce fringilla sodales pretium. Maecenas semper ante a ornare finibus. Integer euismod at tellus sed mollis. Morbi accumsan a enim eget malesuada. In vehicula ullamcorper ultricies. Sed eget velit eleifend urna dignissim tempus eget quis enim. Nullam vehicula, nibh nec varius tincidunt, leo tellus lobortis tellus, ut lobortis tortor nisl efficitur est. Suspendisse ut felis ut tortor aliquam porta id et sem."
-        }
+        "category": {
+            "id" : 1,
+            "title": "Categoría 1"
+        },
+        "location": {
+            "id": 1,
+            "city": "Buenos Aires, Ciudad de Buenos Aires, Argentina a 940m del centro"},
+        "image": {
+            "id" : 1,
+            "url" : "https://picsum.photos/640/359"
+        },
+        "description_title": "Titulo de la descripción del producto",
+        "description_detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a blandit lectus. Morbi vitae convallis lorem. Suspendisse potenti. Nullam interdum ultricies metus, vehicula luctus justo maximus ut. Aliquam finibus nulla arcu, vel scelerisque nunc varius at. Phasellus scelerisque aliquet nunc, faucibus pharetra ligula accumsan non. Nunc dapibus lacus sed felis scelerisque, fermentum bibendum ante fringilla. Cras tortor nisi, maximus id varius eu, bibendum in diam. Vestibulum ac quam sit amet odio laoreet imperdiet. Ut tincidunt diam sit amet maximus vulputate.\n \n Nullam tempor sem sit amet lectus laoreet gravida. Donec porta pellentesque sapien a tincidunt. Integer sit amet odio sem. Nulla euismod lorem vitae libero consectetur pulvinar. Nulla vitae augue eu odio sagittis consequat. Nunc vel suscipit nibh. Cras non tincidunt lectus. Aliquam vestibulum a ligula vitae facilisis. Aliquam sit amet aliquam lacus, vitae rhoncus nulla. Curabitur nec euismod lorem. Sed ac mauris vel urna sagittis pharetra. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n \nFusce fringilla sodales pretium. Maecenas semper ante a ornare finibus. Integer euismod at tellus sed mollis. Morbi accumsan a enim eget malesuada. In vehicula ullamcorper ultricies. Sed eget velit eleifend urna dignissim tempus eget quis enim. Nullam vehicula, nibh nec varius tincidunt, leo tellus lobortis tellus, ut lobortis tortor nisl efficitur est. Suspendisse ut felis ut tortor aliquam porta id et sem."
     },
     {
         "id": 2,
         "title": "Título del producto 2",
-        "category": "Categoría 2",
-        "location": "Buenos Aires, Ciudad de Buenos Aires, Argentina a 940m del centro",
-        "image": "https://picsum.photos/640/359",
-        "description": {
-            "title": "Titulo de la descripción del producto",
-            "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a blandit lectus. Morbi vitae convallis lorem. Suspendisse potenti. Nullam interdum ultricies metus, vehicula luctus justo maximus ut. Aliquam finibus nulla arcu, vel scelerisque nunc varius at. Phasellus scelerisque aliquet nunc, faucibus pharetra ligula accumsan non. Nunc dapibus lacus sed felis scelerisque, fermentum bibendum ante fringilla. Cras tortor nisi, maximus id varius eu, bibendum in diam. Vestibulum ac quam sit amet odio laoreet imperdiet. Ut tincidunt diam sit amet maximus vulputate.\n \n Nullam tempor sem sit amet lectus laoreet gravida. Donec porta pellentesque sapien a tincidunt. Integer sit amet odio sem. Nulla euismod lorem vitae libero consectetur pulvinar. Nulla vitae augue eu odio sagittis consequat. Nunc vel suscipit nibh. Cras non tincidunt lectus. Aliquam vestibulum a ligula vitae facilisis. Aliquam sit amet aliquam lacus, vitae rhoncus nulla. Curabitur nec euismod lorem. Sed ac mauris vel urna sagittis pharetra. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n \nFusce fringilla sodales pretium. Maecenas semper ante a ornare finibus. Integer euismod at tellus sed mollis. Morbi accumsan a enim eget malesuada. In vehicula ullamcorper ultricies. Sed eget velit eleifend urna dignissim tempus eget quis enim. Nullam vehicula, nibh nec varius tincidunt, leo tellus lobortis tellus, ut lobortis tortor nisl efficitur est. Suspendisse ut felis ut tortor aliquam porta id et sem."
-        }
+        "category": {
+            "id" : 2,
+            "title": "Categoría 2"
+        },
+        "location": {
+            "id": 1,
+            "city": "Buenos Aires, Ciudad de Buenos Aires, Argentina a 940m del centro"},
+        "image": {
+            "id" : 1,
+            "url" : "https://picsum.photos/640/359"
+        },
+        "description_title": "Titulo de la descripción del producto",
+        "description_detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a blandit lectus. Morbi vitae convallis lorem. Suspendisse potenti. Nullam interdum ultricies metus, vehicula luctus justo maximus ut. Aliquam finibus nulla arcu, vel scelerisque nunc varius at. Phasellus scelerisque aliquet nunc, faucibus pharetra ligula accumsan non. Nunc dapibus lacus sed felis scelerisque, fermentum bibendum ante fringilla. Cras tortor nisi, maximus id varius eu, bibendum in diam. Vestibulum ac quam sit amet odio laoreet imperdiet. Ut tincidunt diam sit amet maximus vulputate.\n \n Nullam tempor sem sit amet lectus laoreet gravida. Donec porta pellentesque sapien a tincidunt. Integer sit amet odio sem. Nulla euismod lorem vitae libero consectetur pulvinar. Nulla vitae augue eu odio sagittis consequat. Nunc vel suscipit nibh. Cras non tincidunt lectus. Aliquam vestibulum a ligula vitae facilisis. Aliquam sit amet aliquam lacus, vitae rhoncus nulla. Curabitur nec euismod lorem. Sed ac mauris vel urna sagittis pharetra. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n \nFusce fringilla sodales pretium. Maecenas semper ante a ornare finibus. Integer euismod at tellus sed mollis. Morbi accumsan a enim eget malesuada. In vehicula ullamcorper ultricies. Sed eget velit eleifend urna dignissim tempus eget quis enim. Nullam vehicula, nibh nec varius tincidunt, leo tellus lobortis tellus, ut lobortis tortor nisl efficitur est. Suspendisse ut felis ut tortor aliquam porta id et sem."
     },
     {
         "id": 3,
         "title": "Título del producto 3",
-        "category": "Categoría 3",
-        "location": "Buenos Aires, Ciudad de Buenos Aires, Argentina a 940m del centro",
-        "image": "https://picsum.photos/640/359",
-        "description": {
-            "title": "Titulo de la descripción del producto",
-            "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a blandit lectus. Morbi vitae convallis lorem. Suspendisse potenti. Nullam interdum ultricies metus, vehicula luctus justo maximus ut. Aliquam finibus nulla arcu, vel scelerisque nunc varius at. Phasellus scelerisque aliquet nunc, faucibus pharetra ligula accumsan non. Nunc dapibus lacus sed felis scelerisque, fermentum bibendum ante fringilla. Cras tortor nisi, maximus id varius eu, bibendum in diam. Vestibulum ac quam sit amet odio laoreet imperdiet. Ut tincidunt diam sit amet maximus vulputate.\n \n Nullam tempor sem sit amet lectus laoreet gravida. Donec porta pellentesque sapien a tincidunt. Integer sit amet odio sem. Nulla euismod lorem vitae libero consectetur pulvinar. Nulla vitae augue eu odio sagittis consequat. Nunc vel suscipit nibh. Cras non tincidunt lectus. Aliquam vestibulum a ligula vitae facilisis. Aliquam sit amet aliquam lacus, vitae rhoncus nulla. Curabitur nec euismod lorem. Sed ac mauris vel urna sagittis pharetra. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n \nFusce fringilla sodales pretium. Maecenas semper ante a ornare finibus. Integer euismod at tellus sed mollis. Morbi accumsan a enim eget malesuada. In vehicula ullamcorper ultricies. Sed eget velit eleifend urna dignissim tempus eget quis enim. Nullam vehicula, nibh nec varius tincidunt, leo tellus lobortis tellus, ut lobortis tortor nisl efficitur est. Suspendisse ut felis ut tortor aliquam porta id et sem."
-        }
+        "category": {
+            "id" : 3,
+            "title": "Categoría 3"
+        },
+        "location": {
+            "id": 1,
+            "city": "Buenos Aires, Ciudad de Buenos Aires, Argentina a 940m del centro"},
+        "image": {
+            "id" : 1,
+            "url" : "https://picsum.photos/640/359"
+        },
+        "description_title": "Titulo de la descripción del producto",
+        "description_detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a blandit lectus. Morbi vitae convallis lorem. Suspendisse potenti. Nullam interdum ultricies metus, vehicula luctus justo maximus ut. Aliquam finibus nulla arcu, vel scelerisque nunc varius at. Phasellus scelerisque aliquet nunc, faucibus pharetra ligula accumsan non. Nunc dapibus lacus sed felis scelerisque, fermentum bibendum ante fringilla. Cras tortor nisi, maximus id varius eu, bibendum in diam. Vestibulum ac quam sit amet odio laoreet imperdiet. Ut tincidunt diam sit amet maximus vulputate.\n \n Nullam tempor sem sit amet lectus laoreet gravida. Donec porta pellentesque sapien a tincidunt. Integer sit amet odio sem. Nulla euismod lorem vitae libero consectetur pulvinar. Nulla vitae augue eu odio sagittis consequat. Nunc vel suscipit nibh. Cras non tincidunt lectus. Aliquam vestibulum a ligula vitae facilisis. Aliquam sit amet aliquam lacus, vitae rhoncus nulla. Curabitur nec euismod lorem. Sed ac mauris vel urna sagittis pharetra. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n \nFusce fringilla sodales pretium. Maecenas semper ante a ornare finibus. Integer euismod at tellus sed mollis. Morbi accumsan a enim eget malesuada. In vehicula ullamcorper ultricies. Sed eget velit eleifend urna dignissim tempus eget quis enim. Nullam vehicula, nibh nec varius tincidunt, leo tellus lobortis tellus, ut lobortis tortor nisl efficitur est. Suspendisse ut felis ut tortor aliquam porta id et sem."
     }
 ]
